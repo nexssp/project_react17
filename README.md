@@ -1,6 +1,12 @@
 # Nexss Programmer React17 Project Template
 
-This is a Nexss Programmer's react17 default template project.
+This is a Nexss Programmer **React** default template project.
+
+[**React**](https://reactjs.org) is _a JavaScript library for building user interfaces_.
+
+[**Nexss Programmer**](https://nexss.com) is an _innovative and evolutionary tool_ for anyone who starting their programming career, but also for the professionals. Learn about modern languages and also which are not so popular anymore. Combine various amazing technologies together much easier.
+
+## Start Project
 
 ```sh
 # development
@@ -10,8 +16,6 @@ npm run hot # hot reloading
 # production
 npm run production
 ```
-
-## Laravel mix
 
 For bundling we are using great package for development and bundling Laravel mix:
 
